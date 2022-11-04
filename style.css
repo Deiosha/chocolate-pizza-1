@@ -1,0 +1,63 @@
+h1 {
+  font-family: cursive, bold;
+  
+
+}
+
+header {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+
+ .top {
+  display: flex;
+  flex-direction: row; 
+  justify-content: space-between;
+ }
+
+ 
+ span {
+  display: flex;
+  flex-direction: column;
+
+ }
+
+
+ul {
+  display: flex;
+  flex-direction: row;
+  float: left;
+  list-style: none;
+  
+  
+}
+
+h3 {
+  font: bold;
+}
+
+h2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+section p{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* article {
+  display: flex;
+  justify-content: space-between; */
+
+/* } */
+
+.bottom {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  background-color: red;
+  
+}
